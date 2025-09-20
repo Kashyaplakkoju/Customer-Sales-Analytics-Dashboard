@@ -136,8 +136,3 @@ LIMIT 5;
 
 ---
 
-✅ **Quick edits to do after pasting to your repo:**
-- Replace `images/dashboard_placeholder.png` and `images/top_products_placeholder.png` with your actual image paths.
-- Replace `\$X, \$Y, Z%, [Month]` with the actual KPI numbers from Power BI.
-- Add or remove optional screenshots depending on what you want to display.
-```
