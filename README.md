@@ -118,7 +118,7 @@ LIMIT 5;
 
 ---
 
-## ✅ Key Insights (replace with your actual results)
+## ✅ Key Insights
 
 - **Total Revenue:** ~$1.5M  
 - **Average Order Value (AOV):** ~$1.51K  
