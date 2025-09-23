@@ -124,7 +124,7 @@ LIMIT 5;
 - **Average Order Value (AOV):** ~$1.51K  
 - **Top Product:** Laptop — $280,408 revenue 
 - **Defective Orders:** ~11% of total orders  
-- **Revenue Peak:** [Apirl]
+- **Revenue Peak:** [May]
 
 ---
 
