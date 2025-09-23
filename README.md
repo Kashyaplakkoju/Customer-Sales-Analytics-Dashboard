@@ -97,7 +97,6 @@ Then run queries from `SQL_Scripts.sql`.
 
 ## 📊 Dashboard Preview
 
-👉 Replace the path(s) below with your screenshot path(s):
 
 ![Dashboard Screenshot](Power_BI_Dashboard.png)
 
